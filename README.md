@@ -69,7 +69,6 @@ cd job-filler
 
 ```bash
 python3 -m venv siva
-source siva/bin/activate   # macOS/Linux
 siva\Scripts\activate      # Windows
 ```
 
